@@ -38,5 +38,5 @@ Preprocessing steps include:
 ## ⚙️ Installation & Requirements
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/encryption-algorithm-using-machine-learning.git
+git clone https://github.com/tanmaaayyyyy/encryption-algorithm-using-machine-learning.git
 cd encryption-algorithm-using-machine-learning
